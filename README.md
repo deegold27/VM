@@ -1,11 +1,12 @@
-# VM
+# VM WITH NESSUSS
 
 Creating a basic can with nessus. setting the right target for our vm.
 I disable firewall on the vm to make sure the scan gain realistic results.
 <img width="814" alt="image" src="https://github.com/deegold27/VM/assets/58530306/6d202434-655a-447b-ba76-f3f5594da8ec">
 
 
-Results shows 0 vulnerailites even though firewall was off
+Results shows 0 vulnerailites even though firewall was off.
+I REALISED THAT THE CONFIGURATION THE VIRTUAL MACHINE HAD A PROBLEM BUT SORTED IT OUT.
 <img width="852" alt="image" src="https://github.com/deegold27/VM/assets/58530306/19fc886f-25f8-454c-9c62-e76bf67eea5f">
 <img width="783" alt="image" src="https://github.com/deegold27/VM/assets/58530306/9f1ff0f7-197c-4d85-93e7-dc67a408ad54">
 
@@ -27,6 +28,6 @@ example of a critical result :
 
 REMEDIATION:
 
-UPDATE SOFTWARES THATS HAS BEEN LISTED
+UPDATE SOFTWARES THATS HAS BEEN LISTED,
 UPDATE PATCHES OF WINDOWS
 
